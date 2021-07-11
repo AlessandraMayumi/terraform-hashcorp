@@ -1,0 +1,12 @@
+terraform init
+terraform plan
+terraform apply
+terraform destroy
+
+terraform fmt
+terraform validate
+
+terraform show
+terraform state list
+
+terraform output
